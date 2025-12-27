@@ -22,5 +22,5 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: your link
+- LinkedIn: [ashfi_khan](https://www.linkedin.com/in/ashfi-khan-b97054201/)
 - GitHub: you are here 🙂
