@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi, I'm Ashfi Khan
 
-<!--
-**ashfikhan/ashfikhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech Computer Science  
+🤖 AI/ML Engineer | NLP | Deep Learning  
+💡 Passionate about building real-world ML systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: Python, SQL
+- ML/DL: PyTorch, TensorFlow, Scikit-learn
+- NLP: BERT, HuggingFace, spaCy
+- Tools: Git, GitHub, Linux, VS Code
+
+---
+
+## 🚀 Featured Projects
+🔹 ResumeX – AI Resume Classifier  
+🔹 TruthLens – Fake News Detection (BERT)  
+🔹 Stock Market Prediction – LSTM  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: your link
+- GitHub: you are here 🙂
