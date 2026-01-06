@@ -10,7 +10,7 @@
 - Languages: Python, SQL
 - ML/DL: PyTorch, TensorFlow, Scikit-learn
 - NLP: BERT, HuggingFace, spaCy
-- Tools: Git, GitHub, Linux, VS Code
+- Tools: Git, GitHub, VS Code
 
 ---
 
