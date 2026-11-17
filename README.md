@@ -1,23 +1,20 @@
-## 👋 Hi, I'm Ashfi Khan
+## Hi, I'm Ashfi Khan
 
-🎓 M.Tech Computer Science  
-🤖 AI/ML Engineer | NLP | Deep Learning  
-💡 Passionate about building real-world ML systems
+🎓 M.Tech AI & data science 
+
+ SQL | Python | NLP | Machine Learning 
 
 ---
 
 ## 🛠️ Tech Stack
-- Languages: Python, SQL
-- ML/DL: PyTorch, TensorFlow, Scikit-learn
-- NLP: BERT, HuggingFace, spaCy
-- Tools: Git, GitHub, VS Code
+- Languages: Python, SQL , Excel
+- Tools: Git, GitHub, VS Code , SQL server management 
 
 ---
 
 ## 🚀 Featured Projects
 🔹 ResumeX – AI Resume Classifier  
 🔹 TruthLens – Fake News Detection (BERT)  
-🔹 Stock Market Prediction – LSTM  
 
 ---
 
